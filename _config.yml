@@ -13,6 +13,8 @@ url:              'https://colt-m1873.github.io'
 baseurl:          '/blog'
 rss:              RSS
 
+github_username: Colt-M1873
+
 # bootstrap: use the remote theme for the site itself
 remote_theme: sighingnow/jekyll-gitbook
 
